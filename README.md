@@ -1,4 +1,8 @@
 ### Hi there 👋
+# I am an embedded software engineer
+
+- 👯 I’m looking to collaborate on embedded systems projects.
+- 📫 How to reach me: abdelrahmanyousef07@gmail.com
 
 <!--
 **Abdelrahman-Yousef/Abdelrahman-Yousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
